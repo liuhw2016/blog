@@ -1,4 +1,4 @@
 baseURL = 'https://ityun.dpdns.org/'
 locale = 'zh-cn'
 title = 'ITYUN BLOG'
-theme = 'hugo-theme-stack'
+theme = 'ananke'
